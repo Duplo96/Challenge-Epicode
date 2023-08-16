@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+body {
+   padding: 20px;
+  font-family: 'Montserrat', sans-serif; ;
+}
+   .image-container-Lagodicomo {
+   height: 500px;
+   background-image: url("https://www.scopriremilano.com/f/italia/milan/guia/lago-como-m.jpg") ; 
+   background-repeat: no-repeat;
+   background-size: contain;  
+   width: 100%;
+   box-sizing: border-box;
+   }
+   .image-container-Bellagio {
+    height: 500px;
+    background-image: url("https://www.inviaggioconricky.it/wp-content/uploads/2022/10/Bellagio-cosa-vedere.jpg") ; 
+    background-repeat: no-repeat;
+    background-size: contain;  
+    width: 100%;
+    box-sizing: border-box;
+    }
+    .image-container-Lecco {
+        height: 500px;
+        background-image: url("https://media.istockphoto.com/id/1190683525/it/foto/paesaggio-urbano-di-lecco-italiano.jpg?s=612x612&w=0&k=20&c=6v_L7sN8dMNCWoyunp69kmNtzA215D-yKWtUpRFdu9c=") ; 
+        background-repeat: no-repeat;
+        background-size: contain;  
+        width: 100%;
+        box-sizing: border-box;
+        }
+        .image-container-Menaggio {
+            height: 500px;
+            background-image: url("https://menaggio.com/comceptr/media/menaggio-copyright-luigi-secchi.jpg") ; 
+            background-repeat: no-repeat;
+            background-size: contain;  
+            width: 100%;
+            box-sizing: border-box;
+            }
+            .image-container-Nesso 
+            {
+                height: 500px;
+                background-image: url("https://giteinlombardia.it/wp-content/uploads/2016/06/Orrido-di-Nesso.jpg") ; 
+                background-repeat: no-repeat;
+                background-size: contain;  
+                width: 100%;
+                box-sizing: border-box;
+                }
+    
+   h1 
+   {font-family: 'Prata', serif;
+font-size:64px; 
+font-weight: 400;
+}
+h3
+{font-family: 'Prata', serif;
+font-size: 24px;
+font-weight: 400;
+margin-top: 0;
+}
+h1 h3 
+{ margin-bottom: 0;
+}
+a { 
+font-weight: 600;
+font-style:italic;    
+}
+.h6-LagodiComo {
+padding: 22px;
+margin-bottom: 0px;
+margin-top: 56px;
+color: white;
+border-radius: 6px;
+background-image: linear-gradient(to right, #04487B,#B8D3E6 );  
+}
+.h6-Nesso {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background-image: linear-gradient(to right, #55663E,#A2C1B2 );  
+    }
+    .h6-Menaggio {
+        padding: 22px;
+        margin-bottom: 0px;
+        margin-top: 56px;
+        color: white;
+        border-radius: 6px;
+        background-image: linear-gradient(to right, #6696DA,#96B3D3);  
+        }
+        .h6-Bellagio {
+            padding: 22px;
+            margin-bottom: 0px;
+            margin-top: 56px;
+            color: white;
+            border-radius: 6px;
+            background-image: linear-gradient(to right, #5A4831,#947F54);  
+            }
+            .h6-Lecco {
+                padding: 22px;
+                margin-bottom: 0px;
+                margin-top: 56px;
+                color: white;
+                border-radius: 6px;
+                background-image: linear-gradient(to right, #303F49,#D1CED8);  
+                }
+
+a
+{
+   text-decoration: none;}
+ul {
+   list-style: none;
+   padding-top: 6px;
+   padding-left: 22px;
+   border-bottom: 1px;
+   border-color: #dfdfdf;
+   text-decoration: none; 
+   color:#04487B ;
+
+
+}
+ul li
+{
+   text-decoration: none;}
+#Footer-Wrapper
+{
+  
+   background-color: black;
+   color: white;
+   padding: 16px;
+   text-align: center;
+
+}
+.homepage
+ {color: white;
+text-decoration: none;}
+
+
+
+
+
